@@ -48,7 +48,7 @@ const Contact = ({ image }) => {
         </form>
       </div>
       <div class="flex w-1/2 relative lg:block">
-        <img class="w-full h-full object-cover absolute rounded-md" src="./src/assets/images/getintouch.jpg" alt="get in touch!" />
+        <img class="w-full h-full object-cover absolute rounded-md" src="/images/getintouch.jpg" alt="get in touch!" />
       </div>
       </div>
     </div>

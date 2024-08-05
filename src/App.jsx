@@ -13,10 +13,10 @@ const App = () => {
   const [currentPage, setCurrentPage] = useState('Introduction');
 
   const images = {
-    Introduction: './src/assets/images/introduction.jpg',
-    AboutMe: './src/assets/images/aboutme.jpg',
-    Experience: './src/assets/images/experiences.jpg',
-    Contact: './src/assets/images/contact.jpg'
+    Introduction: '/images/introduction.jpg',
+    AboutMe: '/images/aboutme.jpg',
+    Experience: '/images/experiences.jpg',
+    Contact: '/images/contact.jpg'
   };
 
   const renderPage = () => {
